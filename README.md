@@ -1,7 +1,7 @@
 # wetool
 ## 微信社群营销管理工具
 
-官方网站  [http://wetoolapp.com](wetoolapp.com)
+官方网站  [wetoolapp.com](http://wetoolapp.com)
 特色功能
 * 高效服务粉丝和客户，轻松维护私域流量
 * 定时群发， 一键批量群公告
