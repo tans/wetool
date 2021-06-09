@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# wetool
+## 微信社群营销管理工具
 
-You can use the [editor on GitHub](https://github.com/tans/wetool/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### 官方网站  [wetoolapp.com](http://wetoolapp.com)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 特色功能
 
-### Markdown
+* 高效服务粉丝和客户，轻松维护私域流量
+* 定时群发， 一键批量群公告
+* 微信群邀请裂变， 邀请入群发红包
+* 群内应用小程序
+* CPS CPA 分佣联盟 淘宝客
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 用户反馈
 
-```markdown
-Syntax highlighted code block
+* WeTool给我们的社群运营工作提供了非常大的便利，解决了我们流程上的很多难点，问题反馈回复的也很及时到位，给WeTool点赞！
+* WeTool是社群运营中不可或缺的运营帮手，功能逻辑契合用户思维，可操作性强，能科学辅助社群常规维护和活动运营的顺利开展。
+* 功能强大稳定，售后服务非常周到及时，版本迭代快，尝试了多款类似工具，WeTool感觉是投入产出比最高的社群运营软件。
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tans/wetool/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
